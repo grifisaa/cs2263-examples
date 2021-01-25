@@ -8,6 +8,10 @@
 plugins {
     id 'application'
     id 'org.openjfx.javafxplugin' version '0.0.9'
+
+    // License plugin which updates the headers of all files that can be updated
+    // used by calling: gradle licenseFormat
+    id "com.github.hierynomus.license" version "0.15.0"
 }
 
 repositories {
