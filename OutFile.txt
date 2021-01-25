@@ -1,0 +1,10 @@
+Value at: 0 = 63
+Value at: 1 = 53
+Value at: 2 = 72
+Value at: 3 = 30
+Value at: 4 = 34
+Value at: 5 = 65
+Value at: 6 = 60
+Value at: 7 = 28
+Value at: 8 = 39
+Value at: 9 = 48

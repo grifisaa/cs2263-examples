@@ -1,0 +1,32 @@
+[
+  {
+    "firstName": "Isaac",
+    "lastName": "Griffith",
+    "number": {
+      "areaCode": "208",
+      "number": "282-4876"
+    },
+    "email": "grifisaa@isu.edu",
+    "officeLocation": "BA 315"
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Bodily",
+    "number": {
+      "areaCode": "208",
+      "number": "282-4932"
+    },
+    "email": "bodipaul@isu.edu",
+    "officeLocation": "BA 5XX"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Beard",
+    "number": {
+      "areaCode": "208",
+      "number": "282-2684"
+    },
+    "email": "beard@isu.edu",
+    "officeLocation": "BA 3XX"
+  }
+]
